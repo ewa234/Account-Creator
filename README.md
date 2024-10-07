@@ -16,4 +16,6 @@ Add the missing features to the program and verify it works using the unit test 
 
 You must write additional tests for each of the 3 main program requirements.
 
-Upload **2 .py files** to the Teams Assignment, one with your program and one with your unit tests.
+Add the link to your Repository to the document in the Teams Assignment.
+
+Make sure you have **pushed all changes** to GitHub and marked your repository as **public**
